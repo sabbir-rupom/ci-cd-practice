@@ -1,0 +1,1 @@
+C:37:"PHPUnit\Runner\DefaultTestResultCache":177:{a:2:{s:7:"defects";a:2:{s:7:"Warning";i:6;s:33:"ConfigurationTest::testPhpVersion";i:3;}s:5:"times";a:2:{s:7:"Warning";d:0.008;s:33:"ConfigurationTest::testPhpVersion";d:0.01;}}}
